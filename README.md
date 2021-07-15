@@ -74,3 +74,13 @@ License
 Flatlogic One React Template version is MIT-licensed.
 
 that's a joke actually, but we would really appreciate if you support us by buying a premium version. Anyways free is just free and is limited to only few components, while premium one has more and comes with premium support.
+
+Look for templates here:
+
+https://flatlogic.com/templates
+
+React Templates:
+https://flatlogic.com/templates/react
+
+Bootstrap Templates:
+https://flatlogic.com/templates/bootstrap
